@@ -1,6 +1,6 @@
 # Multi-View Consistency for Occlusion- and Scale-Robust Person Re-identification
 
-This repository is the official code for the paper *"面向遮挡与尺度变化的行人重识别多视图一致性方法研究"* (A Multi-View Consistency Method for Occlusion- and Scale-Robust Person Re-identification), built on top of [Bag of Tricks and a Strong Baseline for Deep Person Re-identification](https://github.com/michuanhaohao/reid-strong-baseline) (`reid-strong-baseline`).
+This repository is the official code for the paper *"A Multi-View Consistency Method for Occlusion- and Scale-Robust Person Re-identification"*, built on top of [Bag of Tricks and a Strong Baseline for Deep Person Re-identification](https://github.com/michuanhaohao/reid-strong-baseline) (`reid-strong-baseline`).
 
 Centered on the idea of *multi-view consistency*, the paper progressively introduces Random Oval Erasing (ROE), the Scale View Consistency Network (SVC-Net), the Occlusion View Consistency Network (OVC-Net), the Occlusion-Scale View Consistency Network (OSVC-Net), as well as the View Consistency Loss (VCLoss) and the Bipartite Part Alignment mechanism (BiPA).
 
